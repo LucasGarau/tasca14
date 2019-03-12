@@ -31,22 +31,22 @@
 	</question>		 
 	<question>
 		<type>multiple</type>
-		<title>¿Cuales son los nombres de los maestros que te enseñan nuevos ataques de tu arma? </title>
-		<option>Mato</option>
-		<option>Oro</option> 
-		<option>Dhem</option> 
-		<option>Sheo</option>
+		<title>Cuales de estas frutas son las mas refrescantes? </title>
+		<option>Sandia</option>
+		<option>Limon</option> 
+		<option>Manzana</option> 
+		<option>Fresa</option>
 		<answer>0</answer>
 		<answer>1</answer>
 		<answer>3</answer>
 	</question>
 	<question>
 		<type>multiple</type>
-		<title>¿Cuales son todas las magias que podemos conseguir?</title>
-		<option>Espíritu vengativo</option>
-		<option>Salto desolador</option> 
-		<option>Espectros aulladores</option> 
-		<option>Explosión de almas</option>
+		<title>Cual de estas comidas pueden contener Kiwi?</title>
+		<option>Tarta</option>
+		<option>Cupcaker</option> 
+		<option>Batidos</option> 
+		<option>Pizza</option>
 		<answer>0</answer>
 		<answer>1</answer>
 		<answer>2</answer>
